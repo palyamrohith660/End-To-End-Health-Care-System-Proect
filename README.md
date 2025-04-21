@@ -1,2 +1,1 @@
-# End-To-End-Health-Care-System-Proect
-Developed end to end machin elearning based machine learning application, that is capable to predict more than 250+ diseases with good accuracy. User have to give their symptoms as input and systrem will predict it. Gained knowledge on process like data collection, data validation, data preprocessing, Exploratory Data Analytics ....
+# HealthCareSystem
